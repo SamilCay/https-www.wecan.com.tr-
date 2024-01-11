@@ -1,0 +1,1 @@
+Hello, my name is Şamil. This small project shows what I can do in UI testing. It is not a completely completed project, it is an example. If there is an error in the operation of the codes, it is because of these updates, I am not the tester of this site.
